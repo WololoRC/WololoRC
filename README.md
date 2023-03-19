@@ -34,7 +34,7 @@
 
 <div align="center">
   
-&ensp;[<img src="https://img.shields.io/badge/Email-Proton-blue" />](wololoRC@proton.me)
+&ensp;[<img src="https://img.shields.io/badge/Email-Proton-blue" />](mailto:wololoRC@proton.me)
 &ensp;[<img src="https://img.shields.io/badge/SocialMedia-Linkedin-9cf" />]()
   
 </div>
