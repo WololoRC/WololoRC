@@ -35,6 +35,6 @@
 <div align="center">
   
 &ensp;[<img src="https://img.shields.io/badge/Email-Proton-blue" />](mailto:wololoRC@proton.me)
-&ensp;[<img src="https://img.shields.io/badge/SocialMedia-Linkedin-9cf" />]()
+&ensp;[<img src="https://img.shields.io/badge/SocialMedia-Linkedin-9cf" />](https://www.linkedin.com/in/joaquin-jones-8bbabb281/)
   
 </div>
